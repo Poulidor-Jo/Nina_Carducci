@@ -40,10 +40,7 @@ html {
 }
 .nav a {
     text-decoration: none;
-    color: #000; /* Changer la couleur pour améliorer le contraste */
-}
-.nav a:hover {
-    color: #333; /* Ajouter une couleur de survol pour améliorer le contraste */
+    color: #000;
 }
 .social-links {
     display: flex;
@@ -261,7 +258,6 @@ form textarea {
 }
 input[type="submit"] {
     background-color: #756a03;
-    color: #FFF; /* Ajouter la couleur du texte pour améliorer le contraste */
     padding: 0.5em 1em;
 }
 #about #about-me h3.about-me__introduction {
