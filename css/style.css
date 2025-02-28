@@ -56,8 +56,8 @@ html {
     height: 25px;
 }
 .w-100 {
-    width: 1905px;
-    height: 881px;
+    width: 100%;
+    height: auto;
 }
 .carousel-control-next:focus,
 .carousel-control-prev:focus {
@@ -86,8 +86,8 @@ html {
     z-index: 0;
 }
 .picture img {
-    width: 555px;
-    height: 553px;
+    width: 100%;
+    height: auto;
 }
 #about-me {
     flex: 2;
@@ -111,8 +111,8 @@ html {
     scroll-margin-top: 99px;
 }
 .gallery-item {
-    width: 440px;
-    height: 440px;
+    width: 100%;
+    height: auto;
 }
 .title {
     text-align: center;
